@@ -5,4 +5,4 @@
 A multipupose Java based neural net for AI based functions
 
 # Want to contribute?
-# Contact Admin[potassium32@outlook.com]
+Contact Admin[potassium32@outlook.com]
